@@ -14,7 +14,7 @@ Pneumonia X-rays: Images showing signs of pneumonia.
 
 ## Features
 
-Implemented using TensorFlow and Resnet18.
+Implemented using PyTorch and Resnet18.
 
 Data preprocessing includes normalization and augmentation.
 
